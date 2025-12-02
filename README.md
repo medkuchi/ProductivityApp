@@ -12,7 +12,23 @@ Future Additions:
 - More UI friendly - drag & drop and customization
 - Improve design of interface
 - Include more features.
-
+  
+Features:
+- Add new tasks
+    - title
+    - description
+    - due date
+    - duration needed to complete tasks
+      
+- Add new blocked period of times
+    - commitment title
+    - date
+    - duration
+    - start time
+      
+- Toggle when tasks are finished
+- Swipe to delete tasks
+- Gemni API to help with generating a 
 Challenges: 
 - Figuring out errors with API integration
 - ways to include some of the features I wanted. 
